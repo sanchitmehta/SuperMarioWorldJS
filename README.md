@@ -1,5 +1,5 @@
 # SuperMarioWorldJS ([Demo](https://kevinchau321.github.io/SuperMarioWorldJS/))
-Super Mario World built with Phaser.
+Super Mario World built with Phaser.s
 
 <p align="center">
   <img src="static/screenshots/1.png?raw=true" alt="Screenshot" width="100%"/>
